@@ -1,0 +1,25 @@
+Python - Langage de programmation
+
+Python est un langage de programmation créé par Guido van Rossum en 1991 aux Pays-Bas.
+C'est un langage interprété, de haut niveau, avec une syntaxe claire et lisible.
+
+Caractéristiques principales:
+- Syntaxe simple et lisible
+- Utilise l'indentation pour définir les blocs de code
+- Typage dynamique
+- Multi-paradigme: orienté objet, fonctionnel, procédural
+
+Domaines d'utilisation:
+- Développement web (Django, Flask, FastAPI)
+- Data Science et analyse de données (Pandas, NumPy)
+- Machine Learning et Intelligence Artificielle (TensorFlow, PyTorch, Scikit-learn)
+- Automatisation et scripting
+- Développement d'applications desktop
+
+Frameworks web populaires en Python:
+- Django: framework full-stack, batteries included
+- Flask: micro-framework léger et flexible
+- FastAPI: framework moderne pour les APIs, très performant
+
+La philosophie de Python est résumée dans le "Zen of Python" (accessible via "import this").
+Python est actuellement l'un des langages les plus populaires au monde.

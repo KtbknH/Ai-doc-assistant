@@ -1,0 +1,34 @@
+Claude - Intelligence Artificielle par Anthropic
+
+Claude est une intelligence artificielle conversationnelle créée par Anthropic.
+
+À propos d'Anthropic:
+- Entreprise fondée en 2021 par Dario Amodei et Daniela Amodei
+- Les fondateurs sont d'anciens employés d'OpenAI
+- Siège social à San Francisco, Californie
+- Focus sur la sécurité de l'IA et la recherche sur l'alignement
+
+Principes de Claude:
+Claude est conçu selon les principes "HHH":
+- Helpful (Utile): aide les utilisateurs de manière efficace
+- Honest (Honnête): dit la vérité et reconnaît ses limites
+- Harmless (Inoffensif): évite de causer du tort
+
+Versions de Claude:
+- Claude 3 Haiku: modèle rapide et économique, idéal pour les tâches simples
+- Claude 3 Sonnet: équilibre entre performance et coût
+- Claude 3 Opus: modèle le plus puissant pour les tâches complexes
+- Claude 3.5 Sonnet: version améliorée avec de meilleures performances
+
+Cas d'utilisation:
+- Assistance à la rédaction
+- Analyse de documents
+- Programmation et debug de code
+- Questions-réponses
+- Résumé de textes
+- Traduction
+
+API Anthropic:
+- Endpoint: api.anthropic.com
+- Authentification par clé API (sk-ant-...)
+- Modèle de pricing basé sur les tokens (input et output)

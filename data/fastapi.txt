@@ -1,0 +1,31 @@
+FastAPI - Framework Web Python
+
+FastAPI est un framework web moderne pour construire des APIs avec Python.
+
+Créateur et histoire:
+- Créé par Sebastián Ramírez (tiangolo)
+- Première version en décembre 2018
+- Basé sur Starlette (web) et Pydantic (validation)
+
+Caractéristiques principales:
+- Très haute performance (comparable à Node.js et Go)
+- Support natif de l'asynchrone (async/await)
+- Validation automatique des données avec Pydantic
+- Documentation interactive auto-générée (Swagger UI et ReDoc)
+- Type hints Python pour l'autocomplétion IDE
+- Injection de dépendances intégrée
+
+Avantages de FastAPI:
+- Rapide à coder: réduit les bugs de 40%
+- Rapide à exécuter: l'un des frameworks Python les plus rapides
+- Intuitif: excellent support IDE et autocomplétion
+- Facile à apprendre: documentation excellente
+- Standards: basé sur OpenAPI et JSON Schema
+
+Cas d'utilisation:
+- APIs REST
+- APIs GraphQL
+- Microservices
+- Applications temps réel avec WebSocket
+- Machine Learning APIs
+- Backend pour applications web et mobile

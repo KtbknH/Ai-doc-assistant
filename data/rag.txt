@@ -1,0 +1,34 @@
+RAG - Retrieval-Augmented Generation
+
+RAG signifie Retrieval-Augmented Generation (Génération Augmentée par Récupération).
+C'est une technique qui combine la recherche d'information avec la génération de texte par IA.
+
+Pourquoi utiliser le RAG ?
+- Réduit les hallucinations des modèles de langage (LLM)
+- Permet de répondre avec des informations à jour
+- Donne accès à des données privées ou spécifiques
+- Améliore la précision des réponses
+
+Comment fonctionne le RAG (3 étapes):
+
+1. INDEXATION (préparation):
+   - Les documents sont découpés en morceaux (chunks)
+   - Chaque chunk est transformé en vecteur (embedding)
+   - Les vecteurs sont stockés dans une base vectorielle
+
+2. RECHERCHE (retrieval):
+   - La question de l'utilisateur est convertie en vecteur
+   - On cherche les chunks les plus similaires (recherche sémantique)
+   - Les chunks pertinents sont récupérés
+
+3. GÉNÉRATION (augmented generation):
+   - Les chunks sont injectés dans le prompt comme contexte
+   - Le LLM génère une réponse basée sur ce contexte
+   - La réponse est plus précise car basée sur des sources
+
+Bases de données vectorielles populaires:
+- ChromaDB: open-source, simple à utiliser, local
+- Pinecone: cloud, scalable, managed
+- Weaviate: open-source, features avancées
+- Milvus: open-source, haute performance
+- Qdrant: open-source, Rust-based
